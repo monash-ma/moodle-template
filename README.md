@@ -1,9 +1,6 @@
-# moodle-template
+# Moodle Template
+
 Documentation for Moodle Template.
-
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
