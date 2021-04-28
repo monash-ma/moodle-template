@@ -21,6 +21,8 @@ Inside the editor, go to **File -> Open Folder** and select this repository as y
 
 Happy Hacking :nerd_face:!
 
+![](docs/img/open-folder.gif)
+
 ## Dev Env Deployment
 
 Inside your terminal, type
@@ -30,6 +32,8 @@ mkdocs serve
 ```
 
 The terminal will display a local server url. Clicking the url will display the test environment.
+
+![](docs/img/mkdocs-serve.gif)
 
 ## Built With
 
