@@ -8,8 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites :spiral_notepad:
 
-What things you need to install the software and how to install them
-
 ```{Markdown}
 Visual Studio Code
 IQ higher than 10
@@ -17,25 +15,11 @@ IQ higher than 10
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 Go to [Visual Studio Code page](https://code.visualstudio.com/download). This text editor is preferred as it very compatible across all systems.
 
 Inside the editor, go to **File -> Open Folder** and select this repository as your workspace.
 
 Happy Hacking :nerd_face:!
-
-```{Markdown}
-Give the example
-```
-
-And repeat
-
-```{Markdown}
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Dev Env Deployment
 
