@@ -2,4 +2,5 @@ site_name: Moodle Template
 nav:
     - Home: index.md
     - About: about.md
-    - Thank You: thankyou.md
+    - Debugging: debug.md
+    - FAQ:  faq.md
