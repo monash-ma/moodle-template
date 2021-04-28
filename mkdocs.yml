@@ -1,6 +1,7 @@
 site_name: Moodle Template
 nav:
     - Home: index.md
-    - About: about.md
-    - Debugging: debug.md
-    - FAQ:  faq.md
+    - 'User Guide':
+      - 'FAQ': faq.md
+
+theme: readthedocs

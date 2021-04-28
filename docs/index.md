@@ -1,4 +1,4 @@
-# Welcome to Monash Moodle Template Doc
+![Moodle](img/Moodle-Header.png)
 
 ## Commands
 
