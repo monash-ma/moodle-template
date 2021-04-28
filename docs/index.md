@@ -1,6 +1,4 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+# Welcome to Monash Moodle Template Doc
 
 ## Commands
 
