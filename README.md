@@ -1,4 +1,4 @@
-# Moodle Template
+# Moodle Template :ledger:
 
 Documentation for Moodle Template.
 
