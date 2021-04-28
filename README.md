@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Huge thank you to [Dr Caryn Lim](https://www.monash.edu.my/mih/about-us/our-team/academic-staff/dr.-caryn-lim) & [Dr Cyren](https://www.monash.edu.my/mih/about-us/our-team/academic-staff/dr.-cyren-wong-zhi-hoong) for giving me the oppurtunity to assist in this project.
+* Huge thank you to [Dr. Caryn Lim](https://www.monash.edu.my/mih/about-us/our-team/academic-staff/dr.-caryn-lim) & [Dr. Cyren Wong](https://www.monash.edu.my/mih/about-us/our-team/academic-staff/dr.-cyren-wong-zhi-hoong) for giving me the oppurtunity to assist in this project.
