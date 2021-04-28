@@ -1,7 +1,5 @@
 site_name: Moodle Template
 nav:
     - Home: index.md
-    - 'User Guide':
-      - 'FAQ': faq.md
 
 theme: readthedocs
